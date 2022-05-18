@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "nab:block/mythril_block" }
+  }
+}

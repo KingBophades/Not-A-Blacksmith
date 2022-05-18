@@ -1,5 +1,8 @@
 {
   "item.nab.mythril_ingot": "Mythril Ingot",
   "item.nab.mythril_nugget": "Mythril Nugget",
-  "item.nab.raw_mythril": "Raw Mythril"
+  "item.nab.raw_mythril": "Raw Mythril",
+
+
+  "block.nab.mythril_block": "Mythril Block"
 }
