@@ -5,5 +5,8 @@
 
 
   "block.nab.mythril_block": "Mythril Block",
-  "block.nab.mythril_ore": "Mythril Ore"
+  "block.nab.mythril_ore": "Mythril Ore",
+
+
+  "itemGroup.nab.nab": "Not A Blacksmith"
 }
