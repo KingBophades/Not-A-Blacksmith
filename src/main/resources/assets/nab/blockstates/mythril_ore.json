@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "nab:block/mythril_ore",}
+    "": { "model": "nab:block/mythril_ore"}
   }
 }
