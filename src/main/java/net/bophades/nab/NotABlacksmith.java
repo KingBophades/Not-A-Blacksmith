@@ -1,5 +1,6 @@
 package net.bophades.nab;
 
+import net.bophades.nab.block.ModBlocks;
 import net.bophades.nab.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -19,5 +20,6 @@ public class NotABlacksmith implements ModInitializer {
 		// Proceed with mild caution.
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

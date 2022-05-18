@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Not A Blacksmith",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "For those who aren't blacksmiths, but wish to be.",
   "authors": [
     "KingBophades!"
   ],
@@ -14,7 +14,7 @@
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/nab/icon.png",
 
   "environment": "*",
   "entrypoints": {
