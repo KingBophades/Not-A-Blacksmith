@@ -8,13 +8,13 @@ import net.minecraft.util.registry.Registry;
 
 public class ModItems {
 
-    public static final Item MYTHRIL_INGOT = registerItem("mythril_ingot",
+    public static final Item KATANA_BLADE = registerItem("katana_blade",
             new Item(new FabricItemSettings().group(ModItemGroup.NAB)));
 
-    public static final Item MYTHRIL_NUGGET = registerItem("mythril_nugget",
+    public static final Item KATANA_GUARD = registerItem("katana_guard",
             new Item(new FabricItemSettings().group(ModItemGroup.NAB)));
 
-    public static final Item RAW_MYTHRIL = registerItem("raw_mythril",
+    public static final Item KATANA_HANDLE = registerItem("katana_handle",
             new Item(new FabricItemSettings().group(ModItemGroup.NAB)));
 
     private static Item registerItem(String name, Item item) {

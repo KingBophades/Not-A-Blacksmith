@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "nab:item/mythril_nugget"
+    "layer0": "nab:item/katana_blade"
   }
 }
